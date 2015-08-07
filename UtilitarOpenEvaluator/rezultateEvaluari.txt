@@ -1,0 +1,35 @@
+Evaluarea rezultatului pentru: 3DAdventureCosine.txt
+Scorul pozitiv: 0.29008265657967935
+Scorul negativ: -0.24880119753409136
+
+Evaluarea rezultatului pentru: 3DAdventureDice.txt
+Scorul pozitiv: 0.3783793446477016
+Scorul negativ: -0.2681934659981583
+
+Evaluarea rezultatului pentru: 3DAdventureJaccard.txt
+Scorul pozitiv: 0.25885904291121575
+Scorul negativ: -0.17763419399042554
+
+Evaluarea rezultatului pentru: 3DAdventureOverlap.txt
+Scorul pozitiv: 0.3984663178596741
+Scorul negativ: -0.280397148245713
+
+Evaluarea rezultatului pentru: coconut.txt
+Scorul pozitiv: 0.019396229420808066
+Scorul negativ: -0.005801611934744499
+
+Evaluarea rezultatului pentru: coconut2.txt
+Scorul pozitiv: 0.5109179773526236
+Scorul negativ: -0.3446377375405331
+
+Evaluarea rezultatului pentru: dearComrade.txt
+Scorul pozitiv: 0.17890290434180633
+Scorul negativ: -0.006630413639707993
+
+Evaluarea rezultatului din: jungleBlobs.txt
+Scorul pozitiv: 0.1773840725395983
+Scorul negativ: -0.0653061914870215
+
+Evaluarea rezultatului pentru: solutieTriviala.txt
+Scorul pozitiv: 0.3778132781719287
+Scorul negativ: -0.03920739494092616
